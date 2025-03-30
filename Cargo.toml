@@ -2,7 +2,3 @@
 name = "airplane"
 version = "0.1.0"
 edition = "2024"
-
-[dependencies]
-crc = "3.2.1"
-crc-any = "2.5.0"
